@@ -22,7 +22,7 @@ create_more_features-0.8.0-forge-1.20.1.jar 파일에 대응합니다.
 config 로 이 기능을 끌 수도 없습니다.
 
 ## 무엇을 해야 하나요?
-그냥 Create: More Features 모드를 제거하거나, [릴리즈](/release) 에 있는 수정된 모드 파일 중 하나로 원본 모드를 교체하세요.
+그냥 Create: More Features 모드를 제거하거나, [릴리즈](https://github.com/QyuBot/create-more-features-also-with-illegal-flying/releases/latest) 에 있는 수정된 모드 파일 중 하나로 원본 모드를 교체하세요.
 
 2가지 버전이 있으니 필요한 것 하나를 받아서 교체하면 됩니다.
 ### OPG(Over Powered Gravitron) 버전

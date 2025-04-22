@@ -23,7 +23,7 @@ As a result, items that provide creative-like flight (such as the Mechanism Meka
 This cannot be turned off through the config.
 
 ## What Should I Do?
-Just remove the Create: More Features mod or replace it with the modified version in [Releases](/release).
+Just remove the Create: More Features mod or replace it with the modified version in [Releases](https://github.com/QyuBot/create-more-features-also-with-illegal-flying/releases/latest).
 
 There are two versions available. Choose the one you want and replace the original mod with it.
 
